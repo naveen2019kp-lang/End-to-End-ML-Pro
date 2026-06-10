@@ -15,7 +15,7 @@
 
 
 ```bash
-conda create -n mlproj python=3.8 -y 
+conda create -n mlproj python=3.9.25 -y 
 ```
 
 ```bash
@@ -25,8 +25,6 @@ conda activate mlproj
 
 ```bash
 pip install -r requirements.txt
-
-
 
 ```bash
 # Finally run the following command
